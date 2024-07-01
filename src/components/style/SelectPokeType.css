@@ -1,0 +1,11 @@
+.select__type {
+  width: 250px;
+  height: 40px;
+  font-size: 1em;
+}
+
+@media (max-width: 600px) {
+  .select__type {
+    width: 270px;
+  }
+}
